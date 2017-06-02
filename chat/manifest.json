@@ -1,0 +1,7 @@
+{
+  "name": "Rajany Chat",
+  "short_name": "Rajany Chat",
+  "start_url": "/profile_chat.html",
+  "display": "standalone",
+  "orientation": "landscape"
+}
